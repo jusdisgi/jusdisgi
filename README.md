@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jusdisgi
-- 👀 I’m interested in cloud infrastructure, application modernization, and infrastructure as code; I primarily work in Google Cloud.
-- 🌱 I’m currently learning Terraform and Go.
+- 👀 I’m interested in cloud services (mainly working in Google Cloud Platform), split ergomech keyboards, 3d printing, CNC, sewing, hiking/camping, fast cars, and unicycles. And just about anything else worth getting nerdy about.
+- 🌱 I’m currently learning to design PCBs, for keyboards mainly, using ergogen and KiCad.
 
 <!---
 jusdisgi/jusdisgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
